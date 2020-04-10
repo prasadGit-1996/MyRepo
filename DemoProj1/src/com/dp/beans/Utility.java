@@ -12,7 +12,7 @@ public class Utility {
 	}
 	
 	public void OTPSprt() {
-		System.out.println("Utility.OTPSprt()");
+		System.out.println("OTP has been sent succesfully");
 	}
 
 }
